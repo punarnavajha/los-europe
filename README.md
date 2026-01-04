@@ -37,7 +37,7 @@ The year **2010** was selected for cross-country comparison due to the best data
 Figure 1 presents the distribution of average hospital length of stay across European countries in 2010. Substantial variation is observed, with average LOS ranging from approximately **4 to over 8 days**.
 
 <p align="center">
-  <img src="outputs/figures/los_cross_country_2010.png" width="700">
+  <img src="https://github.com/punarnavajha/los-europe/raw/main/outputs/figures/los_cross_country_2010.png" width="700">
 </p>
 <p align="center">
   <em>Figure 1. Hospital length of stay across European countries, inpatient care (HC1), 2010.</em>
@@ -49,7 +49,7 @@ Figure 1 presents the distribution of average hospital length of stay across Eur
 Figure 2 shows the **15 countries with the shortest average hospital stays** in 2010. Turkey, Malta, and Greece exhibited the lowest reported lengths of stay, generally below **5.5 days**.
 
 <p align="center">
-  <img src="outputs/figures/los_bottom15_2010.png" width="700">
+  <img src="https://github.com/punarnavajha/los-europe/raw/main/outputs/figures/los_bottom15_2010.png" width="700">
 </p>
 <p align="center">
   <em>Figure 2. Shortest hospital stays (HC1), bottom 15 countries, 2010.</em>
@@ -61,7 +61,7 @@ Figure 2 shows the **15 countries with the shortest average hospital stays** in 
 Figure 3 presents the **15 countries with the longest average hospital stays** in 2010. Portugal, Serbia, and Germany recorded the highest values, with average stays exceeding **8 days**.
 
 <p align="center">
-  <img src="outputs/figures/los_top15_2010.png" width="700">
+  <img src="https://github.com/punarnavajha/los-europe/raw/main/outputs/figures/los_top15_2010.png" width="700">
 </p>
 <p align="center">
   <em>Figure 3. Longest hospital stays (HC1), top 15 countries, 2010.</em>
@@ -75,7 +75,7 @@ Figure 4 illustrates trends in average hospital length of stay for selected Euro
 Some heterogeneity in trends remains, highlighting persistent cross-country differences.
 
 <p align="center">
-  <img src="outputs/figures/los_trends_selected.png" width="750">
+ <img src="https://github.com/punarnavajha/los-europe/raw/main/outputs/figures/los_trends_selected.png" width="750">
 </p>
 <p align="center">
   <em>Figure 4. Trends in hospital length of stay (HC1) for selected European countries, 2010–2020.</em>
